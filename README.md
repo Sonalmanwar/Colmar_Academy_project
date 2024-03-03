@@ -11,8 +11,6 @@ You will need to implement the website layout based on the wireframes using HTML
 1. **Wireframe Analysis**: Study the wireframes provided to understand the layout and flow of the website.
 2. **HTML Structure**: Create the HTML structure of the website based on the wireframes, ensuring proper semantics and accessibility.
 3. **CSS Styling**: Apply CSS styling to the HTML structure to achieve the desired visual design. Make design decisions regarding colors, typography, spacing, etc.
-4. **Responsive Design**: Ensure the website is responsive and looks good on various devices and screen sizes.
-5. **Testing**: Test the website across different browsers and devices to ensure compatibility and functionality.
 
  ## Technologies
 
